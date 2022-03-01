@@ -98,7 +98,6 @@ Run the following to execute the python script
 
 ```
 python3 Shard_query.py 
-
 ```
 Results 
 
