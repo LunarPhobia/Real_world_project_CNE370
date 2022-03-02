@@ -1,5 +1,10 @@
 # Real World Project CNE 370
 
+Turn on your docker containers
+
+```
+sudo docker-compose up -d
+```
 
 Install python3 and pymysql
 
