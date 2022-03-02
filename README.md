@@ -14,7 +14,7 @@ This file is used as a blueprint to build your docker containers. You can specif
 
 ### maxscale.cnf
 
-This file configures your MaxScale instance. Docker-compose.yml utilizes this file to then build the MaxScale container.
+This file configures your MaxScale instance. Docker-compose.yml calls upon this file to then build the MaxScale container.
 
 ## Building Container and Running Code
 
