@@ -18,7 +18,7 @@ This file configures your MaxScale instance. Docker-compose.yml calls upon this 
 
 ## Building Container and Running Code
 
-Turn on your docker containers
+Build your containers
 
 ```
 sudo docker-compose up -d
