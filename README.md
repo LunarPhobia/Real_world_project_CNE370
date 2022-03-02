@@ -1,5 +1,9 @@
 # Real World Project CNE 370
 
+## Configuration
+
+## Building Container and Running Code
+
 Turn on your docker containers
 
 ```
