@@ -1,6 +1,13 @@
 # Real World Project CNE 370
 
+explain what you're building, and what you need to modify to get it running
+
+## Overview
+
+This project utilizes docker-compose containers running MaxScale to create a sharded SQL database containing zipcode information.
+
 ## Configuration
+
 
 ## Building Container and Running Code
 
