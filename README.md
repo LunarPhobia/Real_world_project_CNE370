@@ -14,7 +14,7 @@ This file is used to configure and create your docker containers.
 
 ### maxscale.cnf
 
-This file configures your MaxScale instance. Docker-compose.yml utilizes this file to build the MaxScale container.
+This file configures your MaxScale instance. Docker-compose.yml utilizes this file to then build the MaxScale container.
 
 ## Building Container and Running Code
 
