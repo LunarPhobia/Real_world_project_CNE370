@@ -1,6 +1,6 @@
 # Real World Project CNE 370
 
-explain what you're building, and what you need to modify to get it running
+
 
 ## Overview
 
