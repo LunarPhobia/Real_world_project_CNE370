@@ -10,7 +10,7 @@ This project utilizes docker-compose containers running MaxScale to create a sha
 
 ### docker-compose.yml
 
-This file is used to configure and create your docker containers. You can specify how many and what type of containers you want to build.
+This file is used as a blueprint to build your docker containers. You can specify how many and what type of containers you want to build.
 
 ### maxscale.cnf
 
