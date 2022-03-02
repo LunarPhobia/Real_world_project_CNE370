@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project utilizes docker-compose containers running MaxScale to create a sharded SQL database containing zipcode information.
+This project utilizes docker-compose containers running MaxScale to create a sharded SQL database containing zipcode information. A python script is then used to  connect, query, and demonstrate the merged database.
 
 ## Configuration
 
