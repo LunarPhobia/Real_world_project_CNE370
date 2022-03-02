@@ -8,6 +8,13 @@ This project utilizes docker-compose containers running MaxScale to create a sha
 
 ## Configuration
 
+### docker-compose.yml
+
+This file is used to create your docker containers.
+
+### maxscale.cnf
+
+This file configures your MaxScale instance. Docker-compose.yml utilizes this file to build the MaxScale container.
 
 ## Building Container and Running Code
 
@@ -24,7 +31,7 @@ sudo apt-get install python3.6
 sudo apt-get install python3-pymysql
 ```
 
-Run the following to execute the python script
+Execute the Python script
 
 ```
 python3 Shard_query.py 
