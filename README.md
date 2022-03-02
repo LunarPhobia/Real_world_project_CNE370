@@ -16,6 +16,10 @@ This file is used as a blueprint to build your docker containers. You can specif
 
 This file configures your MaxScale instance. Docker-compose.yml calls upon this file to build the MaxScale container.
 
+### Shard_query.py
+
+This is the Python script. You can configure it to retrieve specific data from the database.
+
 ## Building Container and Running Code
 
 Go into the /maxscale directory and run the following to build your containers
