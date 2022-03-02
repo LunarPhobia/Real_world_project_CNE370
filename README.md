@@ -31,7 +31,7 @@ sudo apt-get install python3.6
 sudo apt-get install python3-pymysql
 ```
 
-Go into the /Real_world_project_CNE370 and run the following to execute the python script
+Go into the /Real_world_project_CNE370 directory and run the following to execute the python script
 
 ```
 python3 Shard_query.py 
