@@ -28,7 +28,7 @@ Go into the /maxscale directory and run the following to build your containers
 sudo docker-compose up -d
 ```
 
-Confirm that your containers have been successfully built. You should see the containers specified in docker-compose.yml.
+Confirm that your containers have been successfully built. You should see the containers you've specified in docker-compose.yml.
 ```
 sudo docker-compose ps
 ```
